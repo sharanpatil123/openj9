@@ -24,6 +24,8 @@ file:<built-in>
 
 # Ignore types which exist only to coax compilers to describe other types.
 type:DDR_*
+type:IDispatch
+type:IUnknown
 
 # Ignore types which conflict with primitive or standard types.
 type:Byte
