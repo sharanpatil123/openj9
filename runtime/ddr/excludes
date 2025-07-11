@@ -26,6 +26,10 @@ file:<built-in>
 type:DDR_*
 type:IDispatch
 type:IUnknown
+type:IRecordInfo
+type:ITypeComp
+type:ITypeInfo
+type:ITypeLib
 
 # Ignore types which conflict with primitive or standard types.
 type:Byte
